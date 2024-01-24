@@ -5,6 +5,6 @@ derevovoli.github.io
 
 ## Upvote 
 
-![https://derevovoli.github.io/upvote/](https://derevovoli.github.io/upvote/)
+[https://derevovoli.github.io/upvote/](https://derevovoli.github.io/upvote/)
 
 Main page
