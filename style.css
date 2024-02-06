@@ -1,0 +1,19 @@
+
+iframe.debate-contrib{
+  width: revert-layer;
+  height: revert-layer;
+  min-height: 835px;
+}
+
+
+@media (max-width: 575.98px){
+
+iframe.debate-contrib{
+  width: 100%;
+  width: -moz-available;
+  width: -webkit-fill-available;
+  width: fill-available;
+  min-height: 890px;
+}
+  
+}
