@@ -7,6 +7,10 @@ derevovoli.github.io
 
 [https://derevovoli.github.io/debate](https://derevovoli.github.io/debate)
 
+ ### Задать вопрос
+ 
+[https://derevovoli.github.io/debate/question](https://derevovoli.github.io/debate/question)
+
 
 ## Upvote 
 
