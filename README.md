@@ -5,17 +5,13 @@ derevovoli.github.io
 
 ## 🟩🟦 Дебаты
 
+
+#### 👋 Предложить нового спикера
+
 [https://derevovoli.github.io/debate](https://derevovoli.github.io/debate)
 
- #### ❓ Задать вопрос
 
-  #### Задать вопрос гостям дебатов
+#### ❓ Задать вопрос гостям дебатов
  
 [https://derevovoli.github.io/debate/question](https://derevovoli.github.io/debate/question)
 
-
-## Upvote 
-
-[https://derevovoli.github.io/upvote/](https://derevovoli.github.io/upvote/)
-
-Main page
