@@ -3,11 +3,11 @@ derevovoli.github.io
 
 [https://derevovoli.github.io/](https://derevovoli.github.io/)
 
-## Дебаты
+## 🟩🟦 Дебаты
 
 [https://derevovoli.github.io/debate](https://derevovoli.github.io/debate)
 
- ### Задать вопрос
+ ### ❓ Задать вопрос
  
 [https://derevovoli.github.io/debate/question](https://derevovoli.github.io/debate/question)
 
