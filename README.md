@@ -3,7 +3,7 @@ derevovoli.github.io
 
 [https://derevovoli.github.io/](https://derevovoli.github.io/)
 
-## 🟩🟦 Дебаты
+## 🟩🟥 Дебаты
 
 
 #### 👋 Предложить нового спикера
