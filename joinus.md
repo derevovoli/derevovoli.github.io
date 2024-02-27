@@ -2,7 +2,7 @@
   iframe.joinus{
     width: revert-layer;
     height: revert-layer;
-    min-height: 600px;
+    min-height: 700px;
   }
   
   @media (max-width: 575.98px){
