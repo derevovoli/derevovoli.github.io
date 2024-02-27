@@ -19,4 +19,4 @@
 
 ## 🤝 Присоединиться к движению "Дерево воли"
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScsn_srNHvS81J0E5i5xbrdAigl00FtZBodwyRYYgzI96XLSg/viewform?embedded=true" width="640" height="551" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe class="joinus" src="https://docs.google.com/forms/d/e/1FAIpQLScsn_srNHvS81J0E5i5xbrdAigl00FtZBodwyRYYgzI96XLSg/viewform?embedded=true" width="640" height="551" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
