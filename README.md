@@ -19,3 +19,6 @@ derevovoli.github.io
 
 [https://derevovoli.github.io/joinus](https://derevovoli.github.io/joinus)
 
+## 🧑‍💻 Вакансии и возможности трудоустройства
+
+[https://derevovoli.github.io/job-opportunities](https://derevovoli.github.io/job-opportunities)
