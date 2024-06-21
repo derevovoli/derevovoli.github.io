@@ -5,6 +5,10 @@ derevovoli.github.io
 
 ## 🟩🟥 Дебаты
 
+#### 📣 Принять участие в дебатах с вашей темой
+
+[https://derevovoli.github.io/debate-join](https://derevovoli.github.io/debate-join)
+
 
 #### 👋 Предложить нового спикера
 
