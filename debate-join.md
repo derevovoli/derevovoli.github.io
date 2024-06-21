@@ -21,6 +21,6 @@
 # 🟩🟥 Дебаты
 
 
-## 👋 Принять участие с вашей темой
+## 📣 Принять участие в дебатах с вашей темой
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSclXPJqvxm1BYlwF3Xkfu6czRjLyqKrYh9ustdr96ZJUwR7tw/viewform?embedded=true" width="640" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
