@@ -3,7 +3,7 @@ derevovoli.github.io
 
 [https://derevovoli.github.io/](https://derevovoli.github.io/)
 
-## 🟩🟥 Дебаты
+### 🟩🟥 Дебаты
 
 #### 📣 Принять участие в дебатах с вашей темой
 
@@ -20,14 +20,14 @@ derevovoli.github.io
 [https://derevovoli.github.io/debate/question](https://derevovoli.github.io/debate/question)
 
 
-## 🤝 Присоединиться к движению "Дерево воли" 
+### 🤝 Присоединиться к движению "Дерево воли" 
 
 [https://derevovoli.github.io/joinus](https://derevovoli.github.io/joinus)
 
-## 👋 Onboarding
+### 👋 Onboarding
 
 [https://derevovoli.github.io/onboarding](https://derevovoli.github.io/onboarding)
 
-## 🧑‍💻 Вакансии и возможности трудоустройства
+### 🧑‍💻 Вакансии и возможности трудоустройства
 
 [https://derevovoli.github.io/job-opportunities](https://derevovoli.github.io/job-opportunities)
