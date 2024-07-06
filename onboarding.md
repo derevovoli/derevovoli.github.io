@@ -1,24 +1,21 @@
-<style>
-  iframe{
-    width: revert-layer;
-    height: revert-layer;
-    min-height: 900px;
-  }
-  
-  @media (max-width: 575.98px){
-  iframe{
-    width: 100%;
-    width: -moz-available;
-    width: -webkit-fill-available;
-    width: fill-available;
-  }
-  }
-</style>
-
-
 
 
 # Onboarding
 
+<script>
+    // Uncomment one of the following methods to test the redirect
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSci89eIjnlL1rxRal9bf5YhTJESpMFBYg4mlTpb8WOBUDKpOg/viewform?embedded=true" width="640" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    // Method 1: Using window.location.href
+    window.location.href = "https://forms.gle/H4DgDhFHpp8Rs43z8";
+
+    // Method 2: Using window.location.assign()
+    // window.location.assign("https://www.example.com");
+
+    // Method 3: Using window.location.replace()
+    // window.location.replace("https://www.example.com");
+
+    // Method 4: Using setTimeout to delay the redirect
+    // setTimeout(function() {
+    //   window.location.href = "https://www.example.com";
+    // }, 2000);  // Redirects after 2 seconds
+</script>
