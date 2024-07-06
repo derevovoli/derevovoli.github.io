@@ -17,6 +17,6 @@
 
 
 
-## 🧑‍💻 Onboarding
+## 👋 Onboarding
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSci89eIjnlL1rxRal9bf5YhTJESpMFBYg4mlTpb8WOBUDKpOg/viewform?embedded=true" width="640" height="880" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
